@@ -5,9 +5,9 @@ Allows you to save a list of installed packages and archive the folder /var/www/
 Everything is saved to the /backup/ folder at the root. It has a versioning system based on dates.
 ____
 #### To use write:
-```bash
+```Shell
 chmod +x backup.sh
 ```
-```bash
+```Shell
 ./backup.sh
 ```
